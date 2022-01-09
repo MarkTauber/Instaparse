@@ -1,0 +1,17 @@
+Host: i.instagram.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+X-IG-App-ID: 936619743392459
+X-ASBD-ID: 198387
+X-IG-WWW-Claim: hmac.AR3G4iPuHdfOknbdqHG0aIoNBo6ohCodxY15687qkEgkW25w
+Origin: https://www.instagram.com
+Alt-Used: i.instagram.com
+Connection: keep-alive
+Referer: https://www.instagram.com/
+Cookie: mid=YVZCFAALAAF3sNnN4npXn_5pNAY5; ig_did=478721AF-9972-48CF-B40B-F5957B95CB93; ig_nrcb=1; rur="CLN\05447695477831\0541665598697:01f7b7b991b97f053fa011faf86d3172ba2c81725fd2f8aaf1afa314aad2e54b196e7c72"; csrftoken=HROpRcXVVPKno7Ai4UAMsQZY8oV8vwY7; ds_user_id=47695477831; sessionid=47695477831%3AijXlnHmfGUEWNT%3A1; shbid="1003\05447695477831\0541665598625:01f7d442383d58e7226f2cda8cf07faa2626527d065d7ee9100079595d0410b1e0137995"; shbts="1634062625\05447695477831\0541665598625:01f7cb556f8bcbee405db165ea952614db547023b1e622aab5df26976748962de4388f36"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+TE: trailers
